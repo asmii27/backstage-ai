@@ -12,7 +12,7 @@ Creating content is supposed to be the fun part. But most creators spend more ti
 
 Backstage tries to fix that.
 
-You give it one idea. A team of six specialized AI agents takes it from there — researching trends, writing the script, directing the visuals, mapping the edit, planning distribution, and predicting how it'll perform. The whole pipeline, in one place.
+You give it one idea. A team of six specialized AI agents takes it from there - researching trends, writing the script, directing the visuals, mapping the edit, planning distribution, and predicting how it'll perform. The whole pipeline, in one place.
 
 ---
 
@@ -46,7 +46,7 @@ You give it one idea. A team of six specialized AI agents takes it from there �
 - Lucide React
 - Deployed on Vercel
 
-No backend. No database. Just a fast, interactive frontend demo showing what an AI-native content workflow could look like.
+Just a fast, interactive frontend demo showing what an AI-native content workflow could look like.
 
 ---
 
@@ -65,7 +65,7 @@ Then open `http://localhost:5173`
 
 ## Why I built this
 
-Content creators — especially students and young creators — waste an insane amount of time on the operational side of content. The actual creative idea takes 10 minutes. Everything around it takes hours.
+Content creators, especially students and young creators - waste an insane amount of time on the operational side of content. The actual creative idea takes 10 minutes. Everything around it takes hours.
 
 Backstage is a vision for what that workflow looks like when AI handles the heavy lifting. You stay in the creative seat. The agents handle the rest.
 
