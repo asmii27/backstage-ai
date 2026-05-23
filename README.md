@@ -4,7 +4,7 @@
 
 → [Live Demo](https://backstage-ai-chi.vercel.app/)
 
-<img width="1536" height="1024" alt="Backstage the idea" src="https://github.com/user-attachments/assets/88c90d84-f433-4286-a740-48ec5a40be0e" />
+<img width="800" alt="Backstage the idea" src="https://github.com/user-attachments/assets/88c90d84-f433-4286-a740-48ec5a40be0e" />
 
 ---
 
