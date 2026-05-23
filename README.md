@@ -1,6 +1,6 @@
 # Backstage 🎬
 
-**The AI operating system for content creators.**
+**AI-powered workflow orchestration system for the modern creator economy.**
 
 → [Live Demo](https://backstage-ai-chi.vercel.app/)
 
