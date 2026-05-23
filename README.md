@@ -12,7 +12,7 @@ Creating content is supposed to be the fun part. But most creators spend more ti
 
 Backstage tries to fix that.
 
-You give it one idea. A team of six specialized AI agents takes it from there - researching trends, writing the script, directing the visuals, mapping the edit, planning distribution, and predicting how it'll perform. The whole pipeline, in one place.
+You give it one idea. A team of six specialized AI agents takes it from there - researching trends, writing the script, directing the visuals, mapping the edit, planning distribution, and predicting how it'll perform. An autonomous AI workflow pipeline, orchestrated in real time.
 
 ---
 
@@ -21,7 +21,7 @@ You give it one idea. A team of six specialized AI agents takes it from there - 
 1. Open the [live demo](https://backstage-ai-chi.vercel.app/)
 2. Hit **Launch Your Workflow**
 3. Type any content idea (or use one of the suggestions)
-4. Watch the agents work through the pipeline in real time
+4. Watch a network of specialized AI agents orchestrate an entire creator workflow in real time.
 
 ---
 
@@ -65,7 +65,7 @@ Then open `http://localhost:5173`
 
 ## Why I built this
 
-Content creators, especially students and young creators - waste an insane amount of time on the operational side of content. The actual creative idea takes 10 minutes. Everything around it takes hours.
+Content creators, especially students and young creators - waste an insane amount of time on the operational side of content. The actual creative idea takes 10 minutes. Everything around it takes hours. The creator economy is growing exponentially, but the operational workflow behind content production is still fragmented, manual, and exhausting.
 
 Backstage is a vision for what that workflow looks like when AI handles the heavy lifting. You stay in the creative seat. The agents handle the rest.
 
